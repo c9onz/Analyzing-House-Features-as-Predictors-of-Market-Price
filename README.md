@@ -52,7 +52,7 @@ IBM data analysis project examining house attributes (i.e. square footage, numbe
     </tr>
     <tr>
         <td>grade</td>
-        <td>Overall grade given to the housing unit, based on King Coutny grading system</td>
+        <td>Overall grade given to the housing unit, based on King County grading system</td>
     </tr>
     <tr>
         <td>sqft_above</td>
