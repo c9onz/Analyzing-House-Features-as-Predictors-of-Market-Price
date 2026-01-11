@@ -1,7 +1,7 @@
 # Analyzing-House-Features-as-Predictors-of-Market-Price
-IBM Data Analysis project examining house attributes (i.e. square footage, number of bedrooms, number of floors, etc) as determinants of housing prices in King County, USA. Utilized python to develop linear regression, pipeline, and ridge regression models to predict price from list of housing attributes. Attributes are provided below.<br>
+IBM Data Analysis project examining house sales from May 2014 to May 2015 and their attributes (i.e. square footage, number of bedrooms, number of floors, etc) as determinants of housing prices in King County, USA. Utilized python to develop linear regression, pipeline, and ridge regression models to predict price from list of housing attributes. Attributes are provided below.<br>
 [House Sales King County Project](https://github.com/c9onz/Analyzing-House-Features-as-Predictors-of-Market-Price/blob/main/House_Sales_in_King_Count_USA_Final_CG.ipynb) <br>
-[Dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) 
+[Kaggle Dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 
 <table>
     <tr>
